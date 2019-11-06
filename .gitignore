@@ -1,2 +1,4 @@
 *.docx
 .terraform/
+#securing bucketname and key
+backend.tf
